@@ -1,3 +1,9 @@
-import pandas as pd
+# Cells: eVcfSVEFZJlh, lw7Cwpd3ZRFy
 import requests
-# Вставьте сюда функции MoexClient, identify_contracts и т.д.
+import pandas as pd
+import logging
+
+class MoexClient:
+    def __init__(self, cfg):
+        self._cfg = cfg
+        self._session = requests.Session()
