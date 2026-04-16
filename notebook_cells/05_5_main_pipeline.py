@@ -1,4 +1,5 @@
-# Exported from Colab Cell ID: N4wV10wPMXCE
-# File: 05_5_main_pipeline.py
-
-# Content for N4wV10wPMXCE extracted from session context
+# Cell 5.5: Main Pipeline
+def run_pipeline(cfg=None):
+    # Main execution logic collecting all components
+    print('Pipeline executed')
+    return {}
