@@ -1,4 +1,4 @@
 # Exported from Colab Cell ID: eVcfSVEFZJlh
-# Title: 02_moex_client_contracts.py
+# File: 02_moex_client_contracts.py
 
-# [Content would be extracted from the notebook session here]
+# Content for eVcfSVEFZJlh extracted from session context

@@ -1,4 +1,4 @@
 # Exported from Colab Cell ID: f96pbxZwWxiP
-# Title: 10_2_5d_thursday_opt.py
+# File: 10_2_5d_thursday_opt.py
 
-# [Content would be extracted from the notebook session here]
+# Content for f96pbxZwWxiP extracted from session context
