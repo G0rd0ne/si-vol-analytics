@@ -1,4 +1,11 @@
-# Exported from Colab Cell ID: eVcfSVEFZJlh
-# File: 02_moex_client_contracts.py
+# Cell 2/5: MOEX Client
+import requests
 
-# Content for eVcfSVEFZJlh extracted from session context
+class MoexClient:
+    def __init__(self, cfg):
+        self._cfg = cfg
+        self._session = requests.Session()
+
+def identify_contracts(client, cfg, today):
+    # Contract identification logic here
+    pass

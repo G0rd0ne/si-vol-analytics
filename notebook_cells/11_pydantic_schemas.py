@@ -1,4 +1,7 @@
-# Exported from Colab Cell ID: 45178ceb
-# File: 11_pydantic_schemas.py
+# Cell 11: Pydantic Schemas
+from pydantic import BaseModel, Field
+from typing import Dict, Any
 
-# Content for 45178ceb extracted from session context
+class SiVolatilityReport(BaseModel):
+    meta: Dict[str, Any]
+    contracts: Dict[str, Any]
